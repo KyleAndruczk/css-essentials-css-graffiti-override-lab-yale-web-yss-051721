@@ -3,7 +3,7 @@ body > #wall #tag-2 {
   display: none
 }
 
-div[class="slick washed"] {
+#wall div[class="slick washed"] {
   display: none
 }
 
